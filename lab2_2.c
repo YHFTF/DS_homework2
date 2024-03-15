@@ -5,7 +5,7 @@ int main()
     int *ptr;
     int **dptr;
     i = 1234;
-    printf("[----- [Park Younghyeon] [2021041019] -----]");
+    printf("[----- [Park Younghyeon] [2021041019] -----]\n");
     printf("[checking values before ptr = &i] \n");
     printf("value of i == %d\n", i);                //변수 i의 값을 출력한다.
     printf("address of i == %p\n", &i);             //변수 i의 주소값을 출력한다.
