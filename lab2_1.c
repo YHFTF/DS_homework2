@@ -6,7 +6,7 @@ int main()
     float floatType;
     double doubleType;
 
-    printf("[----- [Park Younghyeon] [2021041019] -----]");
+    printf("[----- [Park Younghyeon] [2021041019] -----]\n");
     printf("Size of char: %ld byte\n",sizeof(charType));       //변수 charType,integerType,floatType,doubleType의 크기를 계산하여 출력한다.
     printf("Size of int: %ld bytes\n",sizeof(integerType));
     printf("Size of float: %ld bytes\n",sizeof(floatType));
